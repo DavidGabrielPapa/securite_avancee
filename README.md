@@ -7,3 +7,5 @@ Le rapport du projet se trouve dans le fichier : https://github.com/DavidGabriel
 La description du travail se trouve dans le fichier : https://github.com/DavidGabrielPapa/securite_avancee/blob/main/Securit%C3%A9_avanc%C3%A9-Sujet.pdf
 
 Tout le code est contenu dans le fichier : [https://github.com/DavidGabrielPapa/securite_avancee/edit/main/projet_securite.ipynb](https://github.com/DavidGabrielPapa/securite_avancee/blob/main/projet_securite.ipynb)
+
+Le fichier contenant les slides de ma présentation est : https://github.com/DavidGabrielPapa/securite_avancee/blob/main/S%C3%A9curit%C3%A9%20Avanc%C3%A9e.pdf
